@@ -35,7 +35,7 @@ app.delete('/produtos/:id', (req, res) => {
 })
 
 app.listen(8080, () => {
-console.log('Servidor Executando')
+console.log('Servidor Executando na porta 8080')
 setInterval(() => {
   console.log('Verificação de execução!')
 }, 30000)

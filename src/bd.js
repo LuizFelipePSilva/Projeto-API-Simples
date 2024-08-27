@@ -28,3 +28,7 @@ function deleteProdutos(id) {
 }
 
 module.exports = {salvarProdutos, getId, getProdutos, deleteProdutos}
+
+
+/* CRUD */
+/* CREATE, READ, UPDATE, DELETRE */
